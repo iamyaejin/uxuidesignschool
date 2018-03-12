@@ -1,0 +1,1 @@
+var cou = "FUS05";
